@@ -1,0 +1,12 @@
+/* ESTRUTURA DO SITE */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff url(../img/bg.png);
+    margin: 15px;
+}
